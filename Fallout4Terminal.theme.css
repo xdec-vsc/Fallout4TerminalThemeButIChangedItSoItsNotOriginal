@@ -36,7 +36,7 @@
   --background-blur: 5px; /* Blurs the image which usually helps with readability of text infront of it */
   --background-brightness: 100%; /* Changes the background images brightness */
   
-  --title-image: url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg"); /* The .svg file used for the "ROBCO Industries (TM) terminal" title */
+  --title-image: url("https://https://github.com/xdec-vsc/Fallout4TerminalThemeButIChangedItSoItsNotOriginal/blob/main/public/svg/title.svg"); /* The .svg file used for the "ROBCO Industries (TM) terminal" title */
   --title-image-repeat: no-repeat; /* If the title image should repeat */
   --title-image-size: cover; /* The size of the title image */
   --title-image-color: var(--highlight); /* The color used for the title image */
